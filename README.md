@@ -2,7 +2,7 @@
 
 # Topic: Entertainment & Sports
 
-#CRIME RATES SURROUNDING LA'S MOST POPULAR ARENAS
+# CRIME RATES SURROUNDING LA'S MOST POPULAR ARENAS
 
 ## Group: Angie, Judy, Dylan
 
