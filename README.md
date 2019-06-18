@@ -26,6 +26,18 @@ We used reported crime data from the LAPD to conduct our research. We analyzed a
 
 https://data.lacity.org/A-Safe-City/2018-Crime/cg5b-sjhs
 
+## Programs used
+* D3.js
+* Plotly.js
+* Python
+* Javascript
+* HTML
+* CSS
+* mySQL
+* SQLAlchemy
+* Flask
+
+
 ## What are our visualizations?
 
 We created three different visualizations to help us either prove or disprove that all three arenas have an impact on crime rates in their surrounding areas.
@@ -33,7 +45,7 @@ We created three different visualizations to help us either prove or disprove th
     1. A heat map of all crime incidents in the last 6 months of 2018 within a 1.5 mile radius of each venue.
     2. A plot with 3 lines, one for each venue, that plots the crime count by distance from each arena.
     3. An interactive table that allows users to filter crimes by date, time, etc.
-    
+
     * NOTE: All distances are measured in miles, and rounded to the nearest tenth.
 
 ![heatmap](static/images/heatmap.png)
