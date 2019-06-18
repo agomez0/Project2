@@ -58,6 +58,8 @@ def table_index():
     """Return the table."""
     return render_template("table_index.html")
 
+#obtains the coordinates of the arenas
+#Appends a dictionary of information for each coordinate to a list
 @app.route("/venue_coords")
 def venue_coords():
 
@@ -72,6 +74,7 @@ def venue_coords():
 
     return jsonify(coords_list)
 
+#obtains the coordinates of the crimes
 @app.route("/crime_coords")
 def crime_coords():
     sel = [
@@ -82,6 +85,8 @@ def crime_coords():
 
     return jsonify(results)
 
+#obtains information about the crimes near Staples Center
+#Appends a dictionary of information for each crime to a list
 @app.route("/staples_crimes")
 def staples_crimes():
     sel = [
@@ -102,6 +107,8 @@ def staples_crimes():
 
     return jsonify(staples_list)
 
+#obtains information about the crimes near the Coliseum
+#Appends a dictionary of information for each crime to a list
 @app.route("/coliseum_crimes")
 def coliseum_crimes():
     sel = [
@@ -122,6 +129,8 @@ def coliseum_crimes():
 
     return jsonify(coliseum_list)
 
+#obtains information about the crimes near Dodger Stadium
+#Appends a dictionary of information for each crime to a list
 @app.route("/dodger_crimes")
 def dodger_crimes():
     sel = [
@@ -142,6 +151,8 @@ def dodger_crimes():
 
     return jsonify(dodger_list)
 
+#Obtains information about all the crimes; will be used for the dynamic table
+#Appends a dictionary of information for each crime to a list
 @app.route("/table")
 def table():
     sel = [
