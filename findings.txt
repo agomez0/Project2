@@ -1,0 +1,11 @@
+Based on our research and visualizations, we did not confirm our hypothesis that there is more crime surrounding the three arenas. 
+The geo-mapped view shows that there is a relatively even spread of crime near the arenas, with small pockets of lower crime events, and small pockets of higher crime events in downtown LA. 
+Visually we can spot that there is a smaller amount of crime surrounding the Coliseum. 
+This could be because of its close proximity to the private institution of the University of Southern California; this university maintains tight security surrounding its campus. 
+From the map, it is hard to conclude that there is higher crime near the arenas, but there is a visible trend on the line plot in which reported crimes appear to increase the farther one gets from each of the arenas. 
+This is the opposite of our hypothesis.
+
+There are many reasons why these arenas would not lead to an increase in crimes committed. 
+For one, there is likely increased security and police surveillance for each of the arenas, even on days when there are not events. 
+Also, all three areas where these arenas are located have experienced gentrification to varying extents over the past few years. 
+The influx of new, wealthier residents into this area has likely also led to decreased crime rates around each arena.
