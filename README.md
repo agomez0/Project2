@@ -8,6 +8,8 @@
 
 ## Introduction
 
+![skyline](static/images/skyline.jpg)
+
 The Staples Center, The Coliseum and Dodgers Stadium, all located within the Downtown Los Angeles vicinity, combined host hundreds of events yearly. Home to some of the most iconic teams in their sports and concerts for Grammy-winning artists, these arenas attract thousands of people from all over the world. We believe that these popular arenas would attract lots of crimes, such as petty theft, due to the influx of visitors and tourists.
 
 This is due to multiple factors. Many fans and tourists carry large sums of money or other valuables. Also, especially tourists, are vulnerable because they are more likely to be relaxed and off guard while on vacation (1). Other studies show that stadiums can lead to an increase in crimes, not necessarily on days of events, but on days that do not have events, when security and police surveillance is lowered. This is because stadiums bring many new people into a neighborhood, and allow criminals in crowds to spot possible targets, which they can act on at a later time (2).
@@ -31,6 +33,10 @@ We created three different visualizations to help us either prove or disprove th
     1. A heat map of all crime incidents in the last 6 months of 2018 within a 1.5 mile radius of each venue.
     2. A plot with 3 lines, one for each venue, that plots the crime count by distance from each arena.
     3. An interactive table that allows users to filter crimes by date, time, etc.
+
+    ![heatmap](static/images/heatmap.png)
+    ![plot](static/images/newplot.png)
+    ![table](static/images/table.png)
 
 * NOTE: All distances are measured in miles, and rounded to the nearest tenth.
 
