@@ -6,9 +6,9 @@
 
 ## Group: Angie, Judy, Dylan
 
-## Introduction
-
 ![skyline](static/images/skyline.jpg)
+
+## Introduction
 
 The Staples Center, The Coliseum and Dodgers Stadium, all located within the Downtown Los Angeles vicinity, combined host hundreds of events yearly. Home to some of the most iconic teams in their sports and concerts for Grammy-winning artists, these arenas attract thousands of people from all over the world. We believe that these popular arenas would attract lots of crimes, such as petty theft, due to the influx of visitors and tourists.
 
@@ -34,9 +34,9 @@ We created three different visualizations to help us either prove or disprove th
     2. A plot with 3 lines, one for each venue, that plots the crime count by distance from each arena.
     3. An interactive table that allows users to filter crimes by date, time, etc.
 
-    ![heatmap](static/images/heatmap.png)
-    ![plot](static/images/newplot.png)
-    ![table](static/images/table.png)
+![heatmap](static/images/heatmap.png)
+![plot](static/images/newplot.png)
+![table](static/images/table.png)
 
 * NOTE: All distances are measured in miles, and rounded to the nearest tenth.
 
