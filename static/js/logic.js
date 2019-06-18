@@ -1,3 +1,4 @@
+// create a map layer
 var arena_layer;
 
 d3.json("/venue_coords").then(function(response){
