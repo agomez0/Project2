@@ -33,12 +33,12 @@ We created three different visualizations to help us either prove or disprove th
     1. A heat map of all crime incidents in the last 6 months of 2018 within a 1.5 mile radius of each venue.
     2. A plot with 3 lines, one for each venue, that plots the crime count by distance from each arena.
     3. An interactive table that allows users to filter crimes by date, time, etc.
+    
+    * NOTE: All distances are measured in miles, and rounded to the nearest tenth.
 
 ![heatmap](static/images/heatmap.png)
 ![plot](static/images/newplot.png)
 ![table](static/images/table.png)
-
-* NOTE: All distances are measured in miles, and rounded to the nearest tenth.
 
 ## mySQL Tables
 
