@@ -60,9 +60,9 @@ We created three different visualizations to help us either prove or disprove th
 ## How to run the app locally:
 
 * Sign up for a mapbox token at: https://account.mapbox.com/auth/signup/?route-to=%22/access-tokens/%22
-* Insert mapbox token into the config.py file: ![1-config file](static/js/config.js)
+* Insert mapbox token into the [config.js](static/js/config.js) file.
 * `pip install geopy`
-* Insert sql connection settings in the config.js file: ![2-config file](config.py)
+* Insert sql connection settings in the [config.py](config.py) file
 * Run the crimes_db.sql file to create the database for the data.
 * `python etl.py`
 * `python app.py`
