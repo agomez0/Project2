@@ -59,12 +59,12 @@ We created three different visualizations to help us either prove or disprove th
 
 ## How to run the app locally:
 
-    1. Sign up for a mapbox token at: https://account.mapbox.com/auth/signup/?route-to=%22/access-tokens/%22
-    2. Insert mapbox token into the config.py file: ![1-config file](static/js/config.js)
-    3. pip install geopy
-    4. Insert sql connection settings in the config.js file: ![2-config file](config.py)
-    5. Run the crimes_db.sql file to create the database for the data.
-    6. Run the etl.py file.
-    7. Run the app.py file.
+* Sign up for a mapbox token at: https://account.mapbox.com/auth/signup/?route-to=%22/access-tokens/%22
+* Insert mapbox token into the config.py file: ![1-config file](static/js/config.js)
+* `pip install geopy`
+* Insert sql connection settings in the config.js file: ![2-config file](config.py)
+* Run the crimes_db.sql file to create the database for the data.
+* `python etl.py`
+* `python app.py`
 
 ## Our findings: [findings.txt](findings.txt)
