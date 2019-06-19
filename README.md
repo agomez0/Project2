@@ -52,7 +52,7 @@ We created three different visualizations to help us either prove or disprove th
 ![plot](static/images/newplot.png)
 ![table](static/images/table.png)
 
-## mySQL Tables
+## MySQL Tables
 
 * venues: contains the arenas of interest that are located in Los Angeles and their latitude and longitude
 * crimes: contains a division of records number, date reported, date occurred, time, area id, area name, crime description, address, latitude, longitude, distance from Staples Center, distance from Coliseum, and distance from Dodger Stadium
