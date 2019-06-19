@@ -62,7 +62,7 @@ We created three different visualizations to help us either prove or disprove th
 * Sign up for a mapbox token at: https://account.mapbox.com/auth/signup/?route-to=%22/access-tokens/%22
 * Insert mapbox token into the [config.js](static/js/config.js) file.
 * `pip install geopy`
-* Insert sql connection settings in the [config.py](config.py) file
+* Insert sql connection settings in the [config.py](config.py) file.
 * Run the crimes_db.sql file to create the database for the data.
 * `python etl.py`
 * `python app.py`
